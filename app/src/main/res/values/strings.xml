@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Fahmi Bangkit 2023 Github</string>
+
+    <string name="tab_1">Followers</string>
+    <string name="tab_2">Followig</string>
+    <string name="dark_mode">Dark Mode</string>
+    <string name="light_mode">Dark Mode</string>
+</resources>
